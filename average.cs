@@ -1,3 +1,4 @@
+
 using System;
 public class Average{
 public static void Main(){
