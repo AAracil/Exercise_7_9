@@ -34,9 +34,8 @@ class digits
                 else
                 d++;  // the number has more than 3 digits
             }
-             e = Console.ReadLine();
+            e = Console.ReadLine();
         }
-
         Console.WriteLine("one: {0} two: {1} three: {2} more: {3}", a, b, c, d); 
     }
 }
